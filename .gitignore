@@ -1,0 +1,4 @@
+*.txt
+*.zip
+!readme.txt
+PQTest.py
